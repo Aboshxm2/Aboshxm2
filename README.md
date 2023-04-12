@@ -1,5 +1,5 @@
 # Hi there 👋
-I am **Abdullah** aka **Aboshxm2**, I am 17 years old.
+I am **Abdullah** aka **Aboshxm2**, I am 18 years old.
 
 - 🔭 I’m currently working on making [pocketmine](https://github.com/pmmp/PocketMine-MP) plugins
 - 🌱 I’m currently learning **Svelte**
